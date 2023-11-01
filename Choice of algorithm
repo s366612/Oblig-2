@@ -3,4 +3,4 @@ We chose the regression method algorithm to solve this case.
 Regression is a way to find the correlation between dependent and independent variables. 
 Using input to correlate with what a possible output can be. Regression is more preferable than classification when it comes to predicting numeric values. Classification would perhaps be a better method if the goal was to have the output defined in different classes. 
 Regression will try to find the best line to predict an output more accurately. The easiest regression method for this case was a linear regression.
-- Karandeep Singh og Mathias Aas
+- Karandeep Singh og Mathias enger
